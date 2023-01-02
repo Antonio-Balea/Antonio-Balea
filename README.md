@@ -21,5 +21,5 @@ I live in Romania and I want to learn to code as good as I can. I like watching 
 <br />
 <br />
 
-![Antonio's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Antonio's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 
