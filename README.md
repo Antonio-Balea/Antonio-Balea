@@ -18,8 +18,3 @@ I live in Romania and I want to learn to code as good as I can. I like watching 
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 
-<br />
-<br />
-
-![Antonio's stats](https://github-readme-stats.vercel.app/api?username=antonio-balea_icons=true&theme=gruvbox)
-
